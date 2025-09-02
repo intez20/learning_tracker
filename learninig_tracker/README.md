@@ -136,7 +136,3 @@ This project is organized as follows:
 - `/api/progress-entries` - CRUD operations for progress entries
 - `/api/goals` - CRUD operations for goals
 - `/api/analytics/*` - Analytics endpoints
-
-## License
-
-MIT
